@@ -6,7 +6,7 @@ from selenium import webdriver
 from utils import attach
 from dotenv import load_dotenv
 
-DEFAULT_BROWSER_VERSION = '130.0'
+DEFAULT_BROWSER_VERSION = '125.0'
 DEFAULT_SELENOID_URL = 'selenoid.autotests.cloud/wd/hub'
 
 
